@@ -21,6 +21,10 @@ class ReverseNumber {
     public static void main(String[] args) {
         int n = 123;
         reverseNumber(n);
+        int l = -1222;
+        reverseNumber(l);
+        int z = 978867;
+        reverseNumber(z);
     }
 
     public static void reverseNumber(int n) {
@@ -31,12 +35,12 @@ class ReverseNumber {
 
             if (rev > Integer.MAX_VALUE / 10 ||
                     (rev == Integer.MAX_VALUE / 10 && rem > 7)) {   //Integer.MAX_VALUE = 2147483647
-                System.out.println("0");
+                System.out.println(0);
                 return;
             }
             if (rev < Integer.MIN_VALUE / 10 ||
                     (rev == Integer.MIN_VALUE / 10 && rem < -8)) { //Integer.MIN_VALUE = -2147483648
-                System.out.println("0");
+                System.out.println(0);
                 return;
             }
             rev = rev * 10 + rem;
