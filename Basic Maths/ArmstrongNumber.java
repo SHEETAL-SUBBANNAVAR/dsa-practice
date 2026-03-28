@@ -19,7 +19,7 @@ Output: Armstrong
 Input: 123  
 Output: Not Armstrong  
 Input: 0  
-Output: Armstrong  
+Output: Armstrong  ,
 */
 
 public class ArmstrongNumber {
@@ -45,8 +45,8 @@ public class ArmstrongNumber {
         // System.out.println(digits);
         int sum = 0;
         while (temp > 0) {
-            int lastval = temp % 10;
-            sum += Math.pow(lastval, digits);
+            int digit = temp % 10;
+            sum += Math.pow(digit, digits);
             temp /= 10;
         }
         return (sum == original ? "Armstrong " : "Not Armstrong  ");
