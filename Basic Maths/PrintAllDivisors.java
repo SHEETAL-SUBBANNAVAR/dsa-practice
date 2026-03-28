@@ -17,23 +17,11 @@ Input: 7
 Output: 1 7  
 */
 
-import java.util.*;
+
 
 public class PrintAllDivisors {
-   public static void main(String[] args) {
-//         int n=12;
-//         int original =n;
-//        Stack<Integer> st = new Stack<>();
-//        for(int i=1;i<=n;i++){
-//         if(n%i ==0){
-//             st.push(i);
-//         }
-//     }
-//     System.out.println(st);
-            
-//         }
-// }
- int n = 12;
+    public static void main(String[] args) {
+        int n = 12;
         printDivisors(n);
     }
 
