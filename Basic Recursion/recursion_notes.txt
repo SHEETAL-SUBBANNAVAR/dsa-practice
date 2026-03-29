@@ -1,0 +1,49 @@
+                                      BASIC RECURSION NOTES
+                                  ===============================
+
+Definition: Recursion is a process where a function calls itself.
+
+Key Components:
+--------------------------------
+1. Base Case:
+   - Condition where recursion stops
+   - Prevents infinite loop
+
+2. Recursive Case:
+   - Function calls itself
+   - Moves towards base case
+
+General Structure:
+--------------------------------
+function(n) {
+    if (base condition) return;
+
+    // work
+    function(smaller input);
+}
+
+Example: Print Name N Times
+--------------------------------
+printName(n, name):
+    if n == 0:
+        return
+    print(name)
+    printName(n-1, name)
+
+Important Points:
+--------------------------------
+- Always define base case
+- Reduce problem size each call
+- Uses stack memory (LIFO)
+- Too many calls → Stack Overflow
+
+
+Time Complexity:
+--------------------------------
+Depends on number of recursive calls
+
+Space Complexity:
+--------------------------------
+O(n) due to recursion stack
+
+===============================
