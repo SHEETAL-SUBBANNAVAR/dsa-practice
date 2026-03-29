@@ -17,12 +17,14 @@ Output:
 */
 public class PrintNTo1 {
     public static void main(String[] args) {
-        int n=5;
-        printNto1_numbers( n);
-    }   
-    public static void printNto1_numbers(int n){
-        if(n==0) return;
+        int n = 5;
+        printNto1_numbers(n);
+    }
+
+    public static void printNto1_numbers(int n) {
+        if (n == 0)
+            return;
         System.out.println(n);
-        printNto1_numbers(n-1);
+        printNto1_numbers(n - 1);
     }
 }

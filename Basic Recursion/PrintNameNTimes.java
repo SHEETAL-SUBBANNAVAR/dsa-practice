@@ -18,17 +18,18 @@ Alex
 */
 public class PrintNameNTimes {
     public static void main(String[] args) {
-        int n=5;
-        String name="Alex";
+        int n = 5;
+        String name = "Alex";
         printNameNTimes(n, name);
     }
-    public static void printNameNTimes(int n ,String name){
-        if(n==0){
+
+    public static void printNameNTimes(int n, String name) {
+        if (n == 0) {
             return;
-        }else{
-        System.out.println(name);
-        
-        printNameNTimes(n-1,name);
         }
+        System.out.println(name);
+
+        printNameNTimes(n - 1, name);
+
     }
 }
