@@ -14,11 +14,11 @@ true
 Explanation:
 A palindrome reads the same forward and backward.
 */
-public class PalindromeCheck {
+public class SimplePalindromeCheck {
     public static void main(String[] args) {
         //String name = "madam";
         String name = "Anurag";
-        boolean result = palindrome(name, 0, name.length() - 1);
+       boolean result = palindrome(name, 0, name.length() - 1);
         System.out.println(result);
     }
 
@@ -31,5 +31,7 @@ public class PalindromeCheck {
         }
         return palindrome(name, left + 1, right - 1);
     }
-
 }
+
+
+     
