@@ -13,10 +13,11 @@ Output: true
 Explanation:
 After removing non-alphanumeric characters and converting to lowercase:
 "amanaplanacanalpanama" → palindrome
-*/public class ValidPalindrome {
+*/
+public class ValidPalindrome {
     public static void main(String[] args) {
-        //String name = "madam";
-        String name = "Anurag";
+        //String name = "race a car";  //false
+        String name = "A man, a plan, a canal: Panama";
          boolean result = isPalindrome(name);
    
         System.out.println(result);
