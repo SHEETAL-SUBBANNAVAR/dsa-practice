@@ -1,0 +1,109 @@
+/*                                          TOPIC: BASIC HASHING
+                                         ===========================
+
+Definition: Hashing is a technique used to store and retrieve data efficiently
+*using a "key → value" mapping.
+*It helps in reducing time complexity for searching from O(N) to O(1) (average).
+
+Why Hashing?
+-----------------------------------
+- Fast lookup
+- Fast insertion
+- Avoids nested loops
+- Used in frequency counting problems
+
+-----------------------------------
+Key Concept:
+-----------------------------------
+Hash Function:
+- Converts input (key) into an index
+- Example: index = key % size
+
+-----------------------------------
+Types of Hashing:
+-----------------------------------
+1. Array Hashing
+2. HashMap (Most used in Java)
+3. HashSet (Stores only unique values)
+
+-----------------------------------
+1. Array Hashing (Basic)
+-----------------------------------
+Used when range is small
+
+Example:
+Count frequency of numbers
+
+int[] hash = new int[10]; // for numbers 0–9
+
+hash[1]++; // count occurrence of 1
+
+-----------------------------------
+2. HashMap (Important)
+-----------------------------------
+Stores key-value pairs
+
+Syntax:
+HashMap<Integer, Integer> map = new HashMap<>();
+
+Operations:
+map.put(key, value);     // insert
+map.get(key);            // get value
+map.containsKey(key);    // check key
+map.remove(key);         // delete
+
+-----------------------------------
+3. HashSet
+-----------------------------------
+Stores only unique elements
+
+HashSet<Integer> set = new HashSet<>();
+
+set.add(1);
+set.contains(1);
+
+-----------------------------------
+Time Complexity:
+-----------------------------------
+Average Case:
+- Insert → O(1)
+- Search → O(1)
+- Delete → O(1)
+
+Worst Case:
+- O(N) (rare, due to collisions)
+
+-----------------------------------
+Collision:
+-----------------------------------
+When two keys map to same index
+
+Handling:
+- Chaining
+- Open Addressing
+
+-----------------------------------
+Common Problems:
+-----------------------------------
+- Count frequency of elements
+- Find duplicates
+- First non-repeating element
+- Two Sum (very important)
+
+-----------------------------------
+Important Interview Points:
+-----------------------------------
+- HashMap is most used
+- Always check constraints before using array hashing
+- Use hashing to optimize brute force
+
+-----------------------------------
+Summary:
+-----------------------------------
+Hashing = Fast lookup using key-value mapping
+Used to reduce time complexity in many problems
+
+===========================
+END OF NOTES
+===========================
+*/
