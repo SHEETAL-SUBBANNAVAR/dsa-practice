@@ -1,0 +1,82 @@
+                     ARRAYS - SHORT NOTES
+               ==============================
+
+1. Definition:- An array is a collection of elements stored in contiguous memory locations.
+    - All elements are of the same data type.
+
+    Example:
+    int arr[5] = {1, 2, 3, 4, 5};
+
+2. Indexing:
+    - Array index starts from 0.
+    - Access element using index.
+    Example:
+    arr[0] = 1
+    arr[2] = 3
+
+3. Types of Arrays:
+    - 1D Array (Single row)
+    - 2D Array (Matrix)
+    - Multi-dimensional Array
+    Example (2D):
+    int arr[2][2] = {{1,2},{3,4}}
+
+4. Operations on Arrays:
+    a) Traversal: Visiting each element.
+    b) Insertion: Add element at specific position.
+    c) Deletion: Remove element from array.
+    d) Searching:Linear Search
+                 Binary Search (sorted array)
+
+5. Advantages:- Fast access using index (O(1))
+                Easy to traverse
+
+6. Disadvantages:Fixed size
+                Insertion & deletion costly
+                 Memory wastage (if unused space)
+7. Time Complexity:Access: O(1)
+                        Search:Linear → O(n)
+                               Binary → O(log n)
+                               Insertion → O(n)
+                               Deletion → O(n)
+
+ Example Code (Java):
+
+
+int[] arr = {1, 2, 3, 4, 5};                //  Declaration & Initialization
+
+System.out.println(arr[0]); // Output: 1    //  Access Element
+
+for(int i = 0; i < arr.length; i++) {       //  Traversal (for loop)
+    System.out.println(arr[i]);
+}
+                       
+for(int i = 1; i < arr.length; i++) {       // Find Maximum Element
+    if(arr[i] > max) {
+        max = arr[i];
+    }
+}
+System.out.println("Max: " + max);
+
+for(int i = arr.length - 1; i >= 0; i--) {  //Reverse Array
+    System.out.print(arr[i] + " ");
+}
+
+int sum = 0;
+for(int num : arr) {                        //Sum of Elements
+    sum += num;
+}
+System.out.println("Sum: " + sum);
+
+int[][] matrix = {                          //2D Array Example
+    {1, 2},
+    {3, 4}
+};
+
+for(int i = 0; i < matrix.length; i++) {
+    for(int j = 0; j < matrix[i].length; j++) {
+        System.out.print(matrix[i][j] + " ");
+    }
+    System.out.println();
+}
+
