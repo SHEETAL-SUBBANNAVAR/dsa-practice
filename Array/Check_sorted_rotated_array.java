@@ -25,6 +25,7 @@ Time Complexity: O(n)
 Space Complexity: O(1)
 
 */
+import java.util.Arrays;
 class Check_sorted_rotated_array {   
     public static void main(String[] args) {
         int[] arr1 = {3, 4, 5, 1, 2};
