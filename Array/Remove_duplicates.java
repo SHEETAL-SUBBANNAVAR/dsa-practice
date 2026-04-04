@@ -1,3 +1,16 @@
+/* REMOVE DUPLICATES FROM SORTED ARRAY
+Problem:Given a sorted array, remove duplicates in-place such that each element appears only once and return the new length.
+
+Approach: Two Pointer Technique 
+        Logic:- Use two pointers:
+                    i → points to last unique element
+                    j → traverses array
+                - If arr[j] != arr[i], move i forward and update arr[i]
+
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+*/
 import java.util.*;
 public class Remove_duplicates {
     public static void main(String[] args)  {
