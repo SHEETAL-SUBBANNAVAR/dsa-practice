@@ -18,6 +18,7 @@ Reversal Algorithm (Optimal)
 // package DSA_Array_Rotation;
 
 import java.util.Arrays;
+
 public class Right_Rotate_Array_By_K {
     public static void main(String[] args) {
         int[] arr = { 1, 2, 3, 4, 5 };
@@ -28,7 +29,7 @@ public class Right_Rotate_Array_By_K {
 
     public static void Right_Rotate(int arr[], int k) {
         int n = arr.length;
-        k=k%n;
+        k = k % n;
         reverse(arr, 0, n - 1);
         reverse(arr, 0, k - 1);
         reverse(arr, k, n - 1);
