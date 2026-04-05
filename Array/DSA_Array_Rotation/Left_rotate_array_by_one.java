@@ -1,6 +1,5 @@
 package DSA_Array_Rotation;
 /*                LEFT ROTATE ARRAY BY ONE
-        ==========================================================
 
 Problem:Given an array, rotate it to the left by one position.
 Example:
