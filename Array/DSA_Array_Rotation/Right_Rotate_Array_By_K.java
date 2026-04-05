@@ -15,7 +15,7 @@ Reversal Algorithm (Optimal)
         Time Complexity: O(n)
         Space Complexity: O(1)
 */
-// package DSA_Array_Rotation;
+ package DSA_Array_Rotation;
 
 import java.util.Arrays;
 
