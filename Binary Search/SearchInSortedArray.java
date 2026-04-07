@@ -30,7 +30,7 @@ public class SearchInSortedArray {
             if (arr[mid] == x) {
                 return mid; 
             } else if (arr[mid] > x) {
-                high = mid;
+                high = mid-1;
             } else {
                 low = mid + 1;
             }
