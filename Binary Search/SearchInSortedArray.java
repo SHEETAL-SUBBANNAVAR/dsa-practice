@@ -1,8 +1,8 @@
 /*        SEARCH X IN SORTED ARRAY
-        =========================
-
+         =========================
 Problem: Given a sorted array nums and a target value X, return the index of X if found. If not found, return -1.
 Example: Input: nums = [1, 3, 5, 7, 9], X = 5         Output: 2
+         Input: arr = { 1, 3, 5, 7, 9, 12 }; x = 9;    Output: 4
 Binary Search (Optimal)
     Logic:- Initialize low = 0, high = n-1
           - Find mid = (low + high) / 2
@@ -35,6 +35,6 @@ public class SearchInSortedArray {
                 low = mid + 1;
             }
         }
-        return low;
+        return -1;
     }
 }
