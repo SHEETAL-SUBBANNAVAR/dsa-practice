@@ -21,6 +21,7 @@ Binary Search (Optimal)
 
     Time Complexity: O(log n)
     Space Complexity: O(1)
+
 */
 public class SingleElementInSortedArray {
     public static void main(String[] args) {
