@@ -26,18 +26,16 @@ public class LongestSubarraySumK {
         int sum = 0;
         int maxLen = 0;
 
-        for (int right = 0; right < arr.length; right++) {
-            sum += arr[right];
-            while (sum > k && left <= right) {
-                sum -= arr[left];
+        for(int right =0 ;right<arr.length;right++ ){
+            sum+=arr[right];
+            while(sum>k && left <=  right){
+                sum-= arr[left];
                 left++;
             }
-
-            if (sum == k) {
-                maxLen = Math.max(maxLen, right - left + 1);
+            if(sum == k){
+                maxLen =Math.max(maxLen, right-left+1);
             }
         }
-
         System.out.println(maxLen);
     }
 }
