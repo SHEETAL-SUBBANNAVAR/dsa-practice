@@ -27,12 +27,13 @@ Two Pointer (Best without extra space)
     Space Complexity: O(1)
 */
 
+import java.util.Arrays;
 
 public class Two_sum {
     public static void main(String[] args) {
         int arr[] = {2,6,5,8,11};
         int target=14;
-        int result= sum(arr , target , 0 , arr.length-1);
+        int result = sum(arr, target, 0, arr.length - 1);
         if(result == 1){
             System.out.println("YES");
         }else {
@@ -41,6 +42,7 @@ public class Two_sum {
 
     }
     public static int  sum(int [] arr , int target ,int low,int high){
+        Arrays.sort(arr);
         while(low<high){
             int sum = arr[low]+arr[high];
             if(sum == target  ){
