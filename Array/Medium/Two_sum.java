@@ -26,7 +26,7 @@ Two Pointer (Best without extra space)
     Time Complexity: O(N log N)  (due to sorting)
     Space Complexity: O(1)
 */
-
+package Medium;
 import java.util.Arrays;
 
 public class Two_sum {
