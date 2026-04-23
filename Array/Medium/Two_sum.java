@@ -28,20 +28,22 @@ Two Pointer (Best without extra space)
 */
 package Medium;
 import java.util.Arrays;
+import java.util.HashSet;
 
 public class Two_sum {
     public static void main(String[] args) {
         int arr[] = {2,6,5,8,11};
         int target=14;
-        int result = sum(arr, target, 0, arr.length - 1);
-        if(result == 1){
+        int result1 = sumsort(arr, target, 0, arr.length - 1);
+        int result2 = sum(arr, target);
+        if(result1 == 1 && result2 ==1){
             System.out.println("YES");
         }else {
             System.out.println("NO");
         }
 
     }
-    public static int  sum(int [] arr , int target ,int low,int high){
+    public static int  sumsort(int [] arr , int target ,int low,int high){
         Arrays.sort(arr);
         while(low<high){
             int sum = arr[low]+arr[high];
@@ -55,4 +57,19 @@ public class Two_sum {
         }
         return -1;
     } 
+     public static int sum(int arr[], int target){
+        HashSet<Integer> set = new HashSet<>();
+
+        for(int i = 0; i < arr.length; i++){
+            int required = target - arr[i];
+
+            if(set.contains(required)){
+                return 1;
+            }
+
+            set.add(arr[i]);
+        }
+
+        return -1;
+    }
 }
