@@ -114,9 +114,9 @@ public abstract class SortColors {
                 low++;
                 mid++;
             }
-            if (arr[mid] == 1)
+            else if (arr[mid] == 1)
                 mid++;
-            if (arr[mid] == 2) {
+           else  {
                 int temp = arr[mid];
                 arr[mid] = arr[high];
                 arr[high] = temp;
