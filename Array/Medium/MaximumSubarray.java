@@ -15,6 +15,7 @@ Kadane’s Algorithm (Optimal)
     Time Complexity: O(N)
     Space Complexity: O(1)
 */
+package Medium;
 public class MaximumSubarray {
     public static void main(String[] args) {
         int [] arr = {-2,1,-3,4,-1,2,1,-5,4 };
