@@ -38,7 +38,7 @@ public class LongestConsecutiveSequence {
 
         }
         for (int i = 0; i < arr.length; i++) {
-            set.add(arr[i]);
+            
             if (!set.contains(arr[i] - 1)) {
                 int count = 1;
                 current = arr[i];
