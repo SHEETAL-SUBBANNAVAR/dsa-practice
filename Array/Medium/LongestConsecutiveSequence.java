@@ -22,8 +22,8 @@ Optimal Approach (Using HashSet)
     Space Complexity: O(N)
 */
 package Medium;
-import java.util.HashMap;
-import java.util.HashSet;
+
+import java.util.*;
 
 public class LongestConsecutiveSequence {
     public static void main(String[] args) {
