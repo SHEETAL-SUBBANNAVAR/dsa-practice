@@ -17,6 +17,7 @@ Optimal Approach (Traverse from Right)
     Time Complexity: O(N)
     Space Complexity: O(N) (to store result)
 */
+package Medium;
 public class LeadersInArray {
     public static void main(String[] args) {
         int [] arr = { 10, 22, 12, 3, 0, 6}; //Output: {22, 12, 6}
