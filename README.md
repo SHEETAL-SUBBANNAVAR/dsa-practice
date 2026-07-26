@@ -300,6 +300,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0584-find-customer-referee](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0584-find-customer-referee) |
 | [0619-biggest-single-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0627-swap-sex-of-employees) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1667-fix-names-in-a-table](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1683-invalid-tweets) |
