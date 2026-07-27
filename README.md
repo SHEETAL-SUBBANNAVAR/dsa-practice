@@ -299,6 +299,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0596-classes-with-at-least-5-students) |
+| [0601-human-traffic-of-stadium](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0601-human-traffic-of-stadium) |
 | [0619-biggest-single-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0627-swap-sex-of-employees) |
