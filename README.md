@@ -45,6 +45,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [2364-count-number-of-bad-pairs](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2540-minimum-common-value](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2784-check-if-array-is-good) |
 | [3638-maximum-balanced-shipments](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3638-maximum-balanced-shipments) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3689-maximum-total-subarray-value-i) |
@@ -91,6 +92,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2126-destroying-asteroids](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2126-destroying-asteroids) |
+| [2733-neither-minimum-nor-maximum](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2784-check-if-array-is-good) |
 ## Counting
 |  |
