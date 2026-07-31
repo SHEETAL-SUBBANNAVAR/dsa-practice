@@ -305,6 +305,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0511-game-play-analysis-i](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0596-classes-with-at-least-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0601-human-traffic-of-stadium) |
 | [0619-biggest-single-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0619-biggest-single-number) |
