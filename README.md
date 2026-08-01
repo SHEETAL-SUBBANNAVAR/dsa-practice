@@ -47,6 +47,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [2553-separate-the-digits-in-an-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2784-check-if-array-is-good) |
+| [3452-sum-of-good-numbers](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3452-sum-of-good-numbers) |
 | [3638-maximum-balanced-shipments](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3638-maximum-balanced-shipments) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
