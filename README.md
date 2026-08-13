@@ -20,6 +20,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0189-rotate-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0287-find-the-duplicate-number) |
@@ -130,6 +131,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1732-find-the-highest-altitude) |
