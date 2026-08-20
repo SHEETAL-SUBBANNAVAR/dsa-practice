@@ -30,6 +30,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1051-height-checker](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1313-decompress-run-length-encoded-list) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -120,6 +121,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0342-power-of-four](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0343-integer-break) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2364-count-number-of-bad-pairs](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2364-count-number-of-bad-pairs) |
