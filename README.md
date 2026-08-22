@@ -185,6 +185,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0387-first-unique-character-in-a-string](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0551-student-attendance-record-i) |
 | [0796-rotate-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0925-long-pressed-name) |
