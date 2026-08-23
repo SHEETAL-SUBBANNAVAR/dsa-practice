@@ -7,9 +7,7 @@ class Solution {
                 st.push(ch);
             }else{
                 if (st.isEmpty()) return false;
-                if(st.peek() == '(' && ch==')') st.pop();
-                else if(st.peek() == '[' && ch==']') st.pop();
-                else if(st.peek() == '{' && ch=='}') st.pop();
+                if(st.peek() == '(' && ch==')' || st.peek() == '[' && ch==']'|| st.peek() == '{' && ch=='}') st.pop();
                 else{
                     return false;
                 }
