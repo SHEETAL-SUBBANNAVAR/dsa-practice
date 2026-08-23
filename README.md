@@ -377,4 +377,8 @@ A structured collection of Data Structures and Algorithms problems with optimize
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
