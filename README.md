@@ -29,6 +29,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0485-max-consecutive-ones](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0645-set-mismatch) |
+| [0941-valid-mountain-array](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0941-valid-mountain-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1051-height-checker](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
