@@ -36,6 +36,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1313-decompress-run-length-encoded-list) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/1528-shuffle-string) |
@@ -141,6 +142,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0209-minimum-size-subarray-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
@@ -275,6 +277,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0219-contains-duplicate-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
 | ------- |
