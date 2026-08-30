@@ -45,6 +45,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2126-destroying-asteroids) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -283,6 +284,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2126-destroying-asteroids) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3638-maximum-balanced-shipments](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3638-maximum-balanced-shipments) |
