@@ -134,6 +134,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [2364-count-number-of-bad-pairs](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2769-find-the-maximum-achievable-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3848-check-digitorial-permutation](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/3848-check-digitorial-permutation) |
 ## Prefix Sum
