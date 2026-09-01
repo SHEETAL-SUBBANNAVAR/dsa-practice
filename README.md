@@ -12,6 +12,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0136-single-number) |
@@ -121,6 +122,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0263-ugly-number) |
