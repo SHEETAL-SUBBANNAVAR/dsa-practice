@@ -193,6 +193,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0014-longest-common-prefix](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0383-ransom-note) |
