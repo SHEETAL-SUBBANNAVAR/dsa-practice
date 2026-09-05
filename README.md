@@ -27,6 +27,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0260-single-number-iii](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0645-set-mismatch) |
@@ -74,6 +75,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0169-majority-element](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0645-set-mismatch) |
@@ -100,6 +102,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0164-maximum-gap](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/1051-height-checker) |
@@ -168,6 +171,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0234-palindrome-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
@@ -270,6 +274,7 @@ A structured collection of Data Structures and Algorithms problems with optimize
 | [0268-missing-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SHEETALSUBBANNAVAR/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/SHEETAL-SUBBANNAVAR/dsa-practice/tree/master/2540-minimum-common-value) |
 ## String Matching
 |  |
